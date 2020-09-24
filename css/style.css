@@ -77,6 +77,9 @@ td{
   vertical-align: middle;
 }
 
+tr: {
+}
+
 tr:nth-child(even){background-color: #D1D1D1}
 
 tr:hover{background-color: rgba(126,8,32,.25)}
